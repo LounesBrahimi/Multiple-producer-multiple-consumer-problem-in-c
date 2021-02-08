@@ -1,0 +1,3 @@
+-La commande "make" ou "make run" permet de compiler et exécuter le projet. 
+-La commande "make compiler" permet de compilée le projet. 
+-La commande "make clean" permet de nettoyer le projet.
